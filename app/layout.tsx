@@ -7,10 +7,10 @@ import { getBuildConfig } from "./config/build";
 const buildConfig = getBuildConfig();
 
 export const metadata = {
-  title: "Chatgpt Sunfly Web",
+  title: "Chatgpt Infore energy group Web",
   description: "Your personal ChatGPT Chat Bot.",
   appleWebApp: {
-    title: "Chatgpt Sunfly Web",
+    title: "Chatgpt Infore energy group Web",
     statusBarStyle: "default",
   },
   themeColor: "#fafafa",
